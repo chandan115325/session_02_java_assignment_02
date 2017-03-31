@@ -51,7 +51,7 @@ public class AssignmentToPrintPattern {
 	           	                       
 	            else
 	            {
-	            	System.out.print(" ");
+	            //	System.out.print(" ");
 	            }
 	         }
 	        System.out.println();
